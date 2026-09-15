@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hoi, ik ben Chanamel 👋
 
-<!--
-**chanamel/chanamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student **Associate Degree Cyber Security** @ Hogeschool van Amsterdam
+🔐 Bezig met de basis: netwerken, Linux, Python en cloud (Azure)
+📜 Bezig met mijn eerste certificaat: **AZ-900 (Azure Fundamentals)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Wat ik aan het leren ben:**
+- Netwerken & netwerktopologieën (Cisco Packet Tracer)
+- Python scripting
+- Cloud fundamentals (Microsoft Azure)
+- Op weg naar: Cloud & DevOps Engineering, met focus op security
+
+**Volg mijn voortgang:**
+Deze repo's bevatten mijn notities en kleine projecten terwijl ik leer — geen kant-en-klare portfolio, maar bewijs dat ik dagelijks bezig ben.
+
+📫 Contact: https://www.linkedin.com/in/chanamel-everduim-8a2334390?utm_source=share_via&utm_content=profile&utm_medium=member_ios
